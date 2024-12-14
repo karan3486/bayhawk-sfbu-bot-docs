@@ -13,8 +13,8 @@ SFBU Bayhawk ChatBot is an AI-powered academic assistant developed for San Franc
 
 ### Student-Focused Features
 - **Smart Q&A System:** Context-aware, history-sensitive responses to academic queries.
-- **Lecture Transcription:** Converts lecture audio into accurate text for note-taking.
-- **Study Resources:** Generates MCQs and summaries for improved learning efficiency.
+- **Escalate Query:** Create tickets for unresolved queries.
+- **IT Support:** Help with any IT Related issues.
 - **Automated Follow-Ups:** Personalized email updates for unresolved queries.
 
 ### Faculty-Focused Features
