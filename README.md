@@ -2,6 +2,16 @@
 
 SFBU Bayhawk ChatBot is an AI-powered academic assistant developed for San Francisco Bay University (SFBU). Designed to assist students, faculty, and guests, the chatbot leverages OpenAI's GPT model, LangChain, and other technologies to provide multilingual, context-aware, and dynamic support. Whether you're a student seeking academic resources or a faculty member needing administrative tools, Bayhawk ChatBot delivers efficient, personalized, and responsive solutions.
 
+## Snapshots:
+
+
+![image](https://github.com/user-attachments/assets/680fe0ee-70dc-4a71-8a09-8ef080db3564)
+
+![image](https://github.com/user-attachments/assets/5b27c0f0-5349-4c06-8790-5857dd2c167e)
+
+![image](https://github.com/user-attachments/assets/7cd6c852-af0d-4552-a9e3-dbb6858ccd2f)
+
+
 ---
 
 ## Key Features
@@ -77,14 +87,6 @@ For queries or assistance, feel free to reach out to the SFBU Bayhawk Bot or the
 
 ---
 
-## Snapshots:
-
-
-![image](https://github.com/user-attachments/assets/680fe0ee-70dc-4a71-8a09-8ef080db3564)
-
-![image](https://github.com/user-attachments/assets/5b27c0f0-5349-4c06-8790-5857dd2c167e)
-
-![image](https://github.com/user-attachments/assets/7cd6c852-af0d-4552-a9e3-dbb6858ccd2f)
 
 
 
